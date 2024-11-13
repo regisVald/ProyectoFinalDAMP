@@ -3,16 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/src/java/com/proyectoFinal/converter/SexoConverter.java</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/src/java/com/proyectoFinal/bean/PersonaBean.java</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/src/java/com/proyectoFinal/model/DetalleVenta.java</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/web/index.xhtml</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/src/java/com/proyectoFinal/model/Venta.java</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/nbproject/build-impl.xml</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/src/java/com/proyectoFinal/dao/DAO.java</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/src/java/com/proyectoFinal/model/Persona.java</file>
-            <file>file:/C:/Users/CITYLAB/Documents/NetBeansProjects/ProyectoFinalDAM/src/java/com/proyectoFinal/dao/PersonaDAO.java</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/web/ventas.xhtml</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/src/java/com/proyectoFinal/dao/VentaDAO.java</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/src/java/com/proyectoFinal/dao/DAO.java</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/web/WEB-INF/templates/plantilla.xhtml</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/web/producto.xhtml</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/src/java/com/proyectoFinal/bean/PersonaBean.java</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/web/persona.xhtml</file>
+            <file>file:/C:/Users/renes/Desktop/ciclo2cuartoaño/Multiplataforma/ProyectoFinalDAMP/ProyectoFinalDAMP/src/java/com/proyectoFinal/bean/VentaBean.java</file>
         </group>
     </open-files>
 </project-private>

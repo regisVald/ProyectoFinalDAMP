@@ -14,6 +14,39 @@ public class Persona {
     private String sexo;
     private int codigo;
 
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 83 * hash + this.codigo;
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Persona other = (Persona) obj;
+        if (this.codigo != other.codigo) {
+            return false;
+        }
+        return true;
+    }
+
+    
+    
+    @Override
+    public String toString() {
+        return "Persona{" + "codigo=" + codigo + '}';
+    }
+
+    
     public String getNombre() {
         return nombre;
     }
